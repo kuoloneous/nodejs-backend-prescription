@@ -1,0 +1,15 @@
+# Canoo JS (Typescript) Server Application Prescription
+This repo serves as a boilerplate for JS applications that we are running in the backend.
+
+Some features that are already integrated:
+## Testing
+- `ts-mocha`, `chai` for unit testing
+- `nyc` for code coverage metrics
+- `eslint` w/ Airbnb Coding Style Guide for code linting
+
+
+## Development
+- `typescript` for better code quality
+- `ts-node` for running typescript without needing to compile
+- `nodemon` live reloading of updates to typescript
+- `rimraf` for easy builds
