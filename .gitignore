@@ -1,0 +1,15 @@
+# package directories
+node_modules
+jspm_packages
+
+# build directory
+build
+
+# Serverless directories
+.serverless
+
+#code converage
+.nyc_output
+
+# Mac files
+.DS_Store
