@@ -1,3 +1,3 @@
-import helloService from './api/hello/hello.service';
+import HelloService from './api/hello/hello.service';
 
-console.log(helloService.helloWorld());
+console.log(HelloService.helloWorld());
