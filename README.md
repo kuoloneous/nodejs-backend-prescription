@@ -20,4 +20,5 @@ Some features that are already integrated:
 - `npm run start:dev` development execution
 - `npm run build` builds the typescript into production build
 - `npm run test` test the typescript 
+- `npm run test:coverage` test the typescript & runs code coverage
 - `npm run lint` runs eslint of the src/ folder

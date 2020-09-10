@@ -5,6 +5,9 @@ jspm_packages
 # build directory
 build
 
+#test coverage
+coverage
+
 # Serverless directories
 .serverless
 

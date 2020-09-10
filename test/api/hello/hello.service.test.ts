@@ -1,5 +1,5 @@
 import chai from 'chai';
-import HelloService from '../../../build/api/hello/hello.service';
+import HelloService from '../../../src/api/hello/hello.service';
 
 describe('App:', () => {
   describe('helloWorld()', () => {
