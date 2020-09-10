@@ -4,7 +4,7 @@ This repo serves as a boilerplate for JS applications that we are running in the
 Some features that are already integrated:
 ## Testing
 - `ts-mocha`, `chai` for unit testing
-- `nyc` for code coverage metrics
+- `nyc` (Istanbul) for code coverage metrics during test phase and web based coverage reports that can be found at /coverage
 - `eslint` w/ Airbnb Coding Style Guide for code linting
 
 
