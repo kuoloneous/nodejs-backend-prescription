@@ -1,7 +1,7 @@
-function helloWorld(): string {
-  return ('hello world');
+class HelloService {
+  static helloWorld(): string {
+    return ('hello world');
+  }
 }
 
-export default {
-  helloWorld,
-};
+export default HelloService;

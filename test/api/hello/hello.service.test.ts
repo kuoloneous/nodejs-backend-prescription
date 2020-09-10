@@ -1,10 +1,10 @@
 import chai from 'chai';
-import helloService from '../../../src/api/hello/hello.service';
+import HelloService from '../../../build/api/hello/hello.service';
 
 describe('App:', () => {
   describe('helloWorld()', () => {
     it('should say hello!', () => {
-      chai.expect(helloService.helloWorld()).to.equal('hello world');
+      chai.expect(HelloService.helloWorld()).to.equal('hello world');
     });
   });
 });
