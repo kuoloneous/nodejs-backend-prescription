@@ -13,3 +13,11 @@ Some features that are already integrated:
 - `ts-node` for running typescript without needing to compile
 - `nodemon` live reloading of updates to typescript
 - `rimraf` for easy builds
+
+
+## Commands
+- `npm run start` production execution
+- `npm run start:dev` development execution
+- `npm run build` builds the typescript into production build
+- `npm run test` test the typescript 
+- `npm run lint` runs eslint of the src/ folder
