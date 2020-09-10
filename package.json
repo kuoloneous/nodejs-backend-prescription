@@ -17,7 +17,7 @@
     "type": "git",
     "url": "ssh://git@bitbucket.canoo.com:7999/prod/canoo-js-backend-prescription.git"
   },
-  "author": "",
+  "author": "Albert Kuo <albert.kuo@canoo.com>",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
