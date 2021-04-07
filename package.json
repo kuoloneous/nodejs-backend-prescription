@@ -1,5 +1,5 @@
 {
-  "name": "canoo-js-backend-prescription",
+  "name": "nodejs-backend-prescription",
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "npm run build && node build/index.js",
-    "start:dev": "nodemon",
+    "dev": "nodemon",
     "build": "rimraf ./build && tsc",
     "lint": "eslint --ext .ts src/",
     "test:unit": "ts-mocha 'test/**/*.ts'",
