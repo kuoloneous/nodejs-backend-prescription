@@ -1,4 +1,4 @@
-# Canoo JS (Typescript) Server Application Prescription
+# Node JS (Typescript) Server Application Prescription
 This repo serves as a boilerplate for JS applications that we are running in the backend.
 
 Some features that are already integrated:
